@@ -1,6 +1,35 @@
-# homework5
-1-Appium'da test yazılıp, bu testler için try catch kullanılarak FileNotFundException, NullPointerException vb. exceptionlar için exception handling yapılacak.<br>
--Extra Puan için dileyenler Capability Check yapabilir. (Gerçekten json dosyasından aldığım cihazı mı test ediyorum?)<br>
-2-Contact Manager uygulamasının senaryoları yazılacak.<br>
-3-Charles Proxy araştırılacak. (Optional-İsteyen araştırabilir, zorunlu değil)<br>
-Not: Bu ödevde README.md dosyalarınızın özenli olmasını bekliyor olacağız.
+# Appium Testing - Homework 5 for Enuygun Test Automation Bootcamp
+
+With this project automated a few test for ContactManager app.
+Examples for tests ;
+User checks title whether it is "Add Contact"
+
+User adds a work account successfully
+User check the account whether it is correct
+
+User adds a mobile account successfully
+User check the account whether it is correct
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing
+purposes.
+
+### Prerequisites
+
+You have to install Appium Server, Android Emulator
+
+## Running the tests
+
+Testng used for this project just press green button at left Tests
+
+## Built With
+
+* [Appium](https://appium.io/) - The mobile framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+
+## Authors
+
+*
+    - [Mustafa KADAK](https://github.com/kadak25)
+ 
